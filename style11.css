@@ -1,0 +1,16 @@
+html,
+body{
+    color: rgb(147, 148, 76);
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(./img/golden-leaf-black-background-luxury-wallpaper_53876-97654.avif);
+    background-size: cover;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 25%;
+}
